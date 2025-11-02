@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+    <EmbeddedResource Include="E:\Homework\Unit8LA\cis3285-unit8-f2024-ZMajor621\Unit8_SRP_F24\trades.txt" />
   </ItemGroup>
 
 </Project>
